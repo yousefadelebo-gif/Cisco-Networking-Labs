@@ -13,7 +13,7 @@
 - ✅ Redundancy
 - ✅ Standard ACL
 - ✅ Extended ACL
-- ⏳ NAT
+- ✅ NAT
 - ⏳ VLANs
 - ⏳ STP
 - ⏳ EtherChannel
