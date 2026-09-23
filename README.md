@@ -22,7 +22,7 @@
 - ✅ PAT / NAT Overload
 - ✅ Router Security
 - ✅ TFTP Backup & Restore
-- ⏳ VLANs
+- ✅ VLANs
 - ⏳ STP
 - ⏳ EtherChannel
 - ⏳ IPv6
