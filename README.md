@@ -1,22 +1,28 @@
-📈 Progress
-Completed
- Network Fundamentals
- IPv4 Addressing
- Subnetting
- VLSM
- DHCP
- Static Routing
- RIP
- EIGRP
- OSPF
- OSPF DR / BDR
- Network Redundancy
- Standard ACL
- Extended ACL
- Static NAT
- Dynamic NAT
- Router Security
- TFTP Backup & Restore
- VLAN Fundamentals
- VLAN Access Ports
- VLAN Trunking
+## Progress
+
+- ✅ ARP
+- ✅ IP Configuration
+- ✅ Subnetting
+- ✅ VLSM
+- ✅ Routing Basics
+- ✅ DHCP
+- ✅ Static Routing
+- ✅ Default Route
+- ✅ RIP
+- ✅ EIGRP
+- ✅ OSPF
+- ✅ OSPF DR/BDR
+- ✅ OSPF Router Priority
+- ✅ Network Redundancy
+- ✅ Standard ACL
+- ✅ Extended ACL
+- ✅ NAT
+- ✅ Static NAT
+- ✅ Dynamic NAT
+- ✅ PAT / NAT Overload
+- ✅ Router Security
+- ✅ TFTP Backup & Restore
+- ⏳ VLANs
+- ⏳ STP
+- ⏳ EtherChannel
+- ⏳ IPv6
