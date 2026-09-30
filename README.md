@@ -7,13 +7,11 @@
 - ✅ Routing Basics
 - ✅ DHCP
 - ✅ Static Routing
-- ✅ Default Route
 - ✅ RIP
 - ✅ EIGRP
 - ✅ OSPF
 - ✅ OSPF DR/BDR
-- ✅ OSPF Router Priority
-- ✅ Network Redundancy
+- ✅ Redundancy
 - ✅ Standard ACL
 - ✅ Extended ACL
 - ✅ NAT
@@ -23,6 +21,7 @@
 - ✅ Router Security
 - ✅ TFTP Backup & Restore
 - ✅ VLANs
+- ✅ VTP
 - ⏳ STP
 - ⏳ EtherChannel
 - ⏳ IPv6
