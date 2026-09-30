@@ -3,18 +3,26 @@
 - ✅ ARP
 - ✅ IP Configuration
 - ✅ Subnetting
+- ✅ VLSM
 - ✅ Routing Basics
 - ✅ DHCP
 - ✅ Static Routing
+- ✅ Default Route
 - ✅ RIP
 - ✅ EIGRP
 - ✅ OSPF
 - ✅ OSPF DR/BDR
-- ✅ Redundancy
+- ✅ OSPF Router Priority
+- ✅ Network Redundancy
 - ✅ Standard ACL
 - ✅ Extended ACL
 - ✅ NAT
-- ⏳ VLANs
+- ✅ Static NAT
+- ✅ Dynamic NAT
+- ✅ PAT / NAT Overload
+- ✅ Router Security
+- ✅ TFTP Backup & Restore
+- ✅ VLANs
 - ⏳ STP
 - ⏳ EtherChannel
 - ⏳ IPv6
