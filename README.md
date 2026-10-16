@@ -26,6 +26,7 @@
 - ✅ Switch Management & Telnet
 - ✅ Trunking & 802.1Q
 - ✅ Inter-VLAN Routing (Router-on-a-Stick)
+- ✅ Inter-VLAN Routing with Layer 3 Switch
 - ⏳ STP
 - ⏳ EtherChannel
 - ⏳ IPv6
