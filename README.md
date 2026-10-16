@@ -22,6 +22,10 @@
 - ✅ TFTP Backup & Restore
 - ✅ VLANs
 - ✅ VTP
+- ✅ VLAN Types
+- ✅ Switch Management & Telnet
+- ✅ Trunking & 802.1Q
+- ✅ Inter-VLAN Routing (Router-on-a-Stick)
 - ⏳ STP
 - ⏳ EtherChannel
 - ⏳ IPv6
